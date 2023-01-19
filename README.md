@@ -6,6 +6,7 @@ Dm Me on Discord For The Sourced Code: PythonDev#5063
 
 # Banner.txt
 You Can Change The Banner To Whatever you want the fade effect will be there automaticly!
+create a banner at: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 # Config
 you should have the config like this:
