@@ -1,0 +1,7 @@
+{
+    "Config": "False",
+    "Use_Webhook": "False",
+    "Webhook": "Your Webhook",
+    "Webhook_Message": "Valid Nitro: {nitro}",
+    "amount": 100000
+}
