@@ -1,6 +1,9 @@
 # Nitro-Gen-Checker-V2
 Nitro Gen/Checker V2 is out!
 
+# Source Code
+Dm Me on Discord For The Sourced Code: PythonDev#5063
+
 # Config
 you should have the config like this:
 {
