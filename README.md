@@ -8,12 +8,16 @@ Dm Me on Discord For The Sourced Code: PythonDev#5063
 You Can Change The Banner To Whatever you want the fade effect will be there automaticly!
 create a banner at: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
+# Threads
+Threads makes it 2x faster!
+
 # Config
-you should have the config like this:
+you should have the config like this because:
 {
     "Config": "True",
     "Use_Webhook": "True",
-    "Webhook": "Your Webhook",
+    "Webhook": "your webhook here",
     "Webhook_Message": "Valid Nitro: {nitro}",
-    "amount": 100000
+    "amount": 100000,
+    "use_threads": "True"
 }
