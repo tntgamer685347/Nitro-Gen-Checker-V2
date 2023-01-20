@@ -11,6 +11,9 @@ create a banner at: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Ty
 # Threads
 Threads makes it 2x faster!
 
+# icon from exe file
+please ignore it i couldnt find a good one and because my art skills are bad it now looks like this
+
 # Config
 you should have the config like this because:
 {
